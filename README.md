@@ -12,19 +12,35 @@ s << row(8) << "The quick brown fox jumped over the lazy dog’s back.";
 s << row(3) << "the end";
 return 0;
 }
+
 Running the sample code should produce:
+
 bash$ ./a.out
+
 /------------------------------\
+
 |hi th#re planetoid humans |
+
 | how s all the fish |
+
 | |
+
 |the end |
+
 | two more3 1415 |
+
 |one more |
+
 | |
+
 | |
+
 |The quick brown fox jumped ove|
+
 | |
+
 \------------------------------/
+
 Your code should inherit from the C++ standard library stream class hierarchy where appropriate.
+
 
