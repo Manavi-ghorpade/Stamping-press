@@ -27,3 +27,4 @@ bash$ ./a.out
 | |
 \------------------------------/
 Your code should inherit from the C++ standard library stream class hierarchy where appropriate.
+
